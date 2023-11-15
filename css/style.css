@@ -540,7 +540,7 @@ footer .box ul li h2 {
 header,.about-us,.gallery,.contact-link,.testimonial,article,footer,nav {
     overflow: hidden;
 }
-@media(max-width:350px){
+@media(max-width:400px){
     header .text-box h1 {
         line-height: 60px;
         font-size: 38px;
