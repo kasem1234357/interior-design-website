@@ -75,7 +75,7 @@ header {
 header .img-box {
     display: flex;
     gap: 60px;
-    padding-right: clamp(15px,110px,140px);
+    padding-right: 6vw;
 }
 .img-main.img-1 {
     display: flex;
